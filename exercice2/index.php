@@ -5,7 +5,7 @@ $result = $nombre * $multiplier . "<br>";
 
 while ($nombre < 20) {
     $nombre ++;
-    $result .= $nombre * $multiplier . "<br>"
+    $result .= $nombre * $multiplier . "<br>";
     } ;
 ?>
 
